@@ -34,5 +34,5 @@
 >기술 스택:  
 >Back-End : Spring Boot 2.7.15 / Android Kotlin / Spring Data JPA / Python / Flask / Openai API    
 >DataBase : MariaDB / Shared_Preferences /    
->구현기능  : 다이어리, 감정데이터 차트화 / Android < - > Flask(ChatGPT) 연동 / Spring boot < - > Android HTTP 통신
+>구현기능  : 다이어리, 감정데이터 차트화 / Android < - > Flask(ChatGPT) 연동 / Spring boot < - > Android HTTP 통신    
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
