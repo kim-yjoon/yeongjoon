@@ -28,11 +28,11 @@
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>DistilBERT와 ChatGPT를 활용한 일기감정분석 및 AI친구 서비스
+>개발 기간: 2024.01.08 ~ 2024.03.06  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Spring Boot 2.7.15 / Android Kotlin / Spring Data JPA /
+>MariaDB / Shared_Preferences 
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
