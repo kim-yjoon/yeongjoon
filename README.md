@@ -59,7 +59,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트](https://github.com/smhrdMCC/TodakTodak.git)
 >DistilBERT와 ChatGPT를 활용한 일기감정분석 및 AI친구 서비스
 >개발 기간: 2024.01.08 ~ 2024.03.06  
 >  
@@ -67,4 +67,4 @@
 >Back-End : Spring Boot 2.7.15 / Android Kotlin / Spring Data JPA / Python / Flask / Openai API    
 >DataBase : MariaDB / Shared_Preferences /    
 >구현기능  : 다이어리, 감정데이터 차트화 / Android < - > Flask(ChatGPT) 연동 / Spring boot < - > Android HTTP 통신    
->[프로젝트 상세 설명]((https://github.com/smhrdMCC/TodakTodak.git)) 참고
+>[프로젝트 상세 설명](https://github.com/smhrdMCC/TodakTodak.git) 참고
