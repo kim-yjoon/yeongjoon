@@ -55,7 +55,7 @@
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/smhrdMCC/TodakTodak.git)
->DistilBERT와 ChatGPT를 활용한 일기감정분석 및 AI친구 서비스
+>DistilBERT와 ChatGPT를 활용한 일기감정분석 및 AI친구 서비스  
 >개발 기간: 2024.01.08 ~ 2024.03.06  
 >  
 >기술 스택:  
