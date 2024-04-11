@@ -49,8 +49,8 @@
 >기술 스택:  
 >Back-End : Java 8 / Python / Oracle    
 >Front-End : HTML / CSS / JS / Chart.js   
->구현 기능 : 인구현황, QGIS를 통한 지도 표현, 날씨 API 연동
->전체 기능 화면
+>구현 기능 : 인구현황, QGIS를 통한 지도 표현, 날씨 API 연동  
+>전체 기능 화면  
 ![313070305-21d7a384-b496-4299-b21e-0187f4b3455e](https://github.com/kim-yjoon/yeongjoon/assets/150218820/6d3e9946-f625-49e7-8d5f-0ade39130b8c)
 
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SEE.git) 참고
