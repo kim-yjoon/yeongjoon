@@ -63,6 +63,13 @@
 >  
 >기술 스택:  
 >Back-End : Spring Boot 2.7.15 / Android Kotlin / Spring Data JPA / Python / Flask / Openai API    
->DataBase : MariaDB / Shared_Preferences /    
+>DataBase : MariaDB / Shared_Preferences    
 >구현기능  : 다이어리, 감정데이터 차트화 / Android < - > Flask(ChatGPT) 연동 / Spring boot < - > Android HTTP 통신    
+>결과물    
+![310337272-c6303ff0-06b8-4cdd-9a3f-8947d2aafab8](https://github.com/kim-yjoon/yeongjoon/assets/150218820/93708d63-86a8-4577-94dc-46de388d912d)
+![310337460-f503bb61-2be3-4281-aa76-dc5aed9881b4](https://github.com/kim-yjoon/yeongjoon/assets/150218820/d44f33b9-19c5-4b83-bbc6-5da503dc9733)
+![310337324-9e1c9378-6e77-4033-bd87-c24a41621e2c](https://github.com/kim-yjoon/yeongjoon/assets/150218820/5c5b0ec3-2867-4e6e-8e74-b50d85d1b42a)
+![310337347-36c0983b-e2ec-443e-9721-8fd1f716a1c6](https://github.com/kim-yjoon/yeongjoon/assets/150218820/05898891-8f55-4ee1-a120-2e305f07a86d)
+
+
 >[프로젝트 상세 설명](https://github.com/smhrdMCC/TodakTodak.git) 참고
